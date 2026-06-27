@@ -19,18 +19,18 @@ export default function Hero() {
         className="absolute inset-0 w-full h-full"
       >
         <img
-          src="/images/mountain-landscape.jpg"
-          alt="Mountain landscape"
+          src="https://cdn.poehali.dev/projects/f54095ae-4a2e-4ba2-9edc-8b4b0f715afc/files/6dfc3293-dacf-49f7-a1b3-e9b45b9c5750.jpg"
+          alt="Карпатские горы"
           className="w-full h-full object-cover"
         />
       </motion.div>
 
       <div className="relative z-10 text-center text-white">
         <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold tracking-tight mb-6">
-          ОТКРОЙ
+          КАРПАТСКИЙ ЧАЙ
         </h1>
         <p className="text-lg md:text-xl max-w-2xl mx-auto px-6 opacity-90">
-          Исследуй границы дизайна с иммерсивным параллакс-эффектом
+          Дикие травы с горных склонов — собраны вручную, заварены с любовью
         </p>
       </div>
     </div>
